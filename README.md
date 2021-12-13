@@ -10,3 +10,4 @@ According to Given Problem Statement, we came up with a one pager Website which 
 - BACKEND:  NodeJs, ExpressJS, GraphQL+ GraphIQL, MongoDB+(Json)
 
 
+### USING STATIC DATA  REPO: https://github.com/SathwikaReddy35/Assignment-1_IIIT-Hyderabad/tree/master/IIIT-internship-TASK1

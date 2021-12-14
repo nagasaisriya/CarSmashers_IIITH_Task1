@@ -11,3 +11,8 @@ According to Given Problem Statement, we came up with a one pager Website which 
 
 
 ### USING STATIC DATA  REPO: https://github.com/SathwikaReddy35/Assignment-1_IIIT-Hyderabad/tree/master/IIIT-internship-TASK1
+
+### DEVELOPERS:
+- FRONTEND: Satwika M,Vaishnavi Yada, Shreya Bashetty, Sai Sindhuja, Sravani, Sowmya
+- BACKEND: C.V.Naga Saisriya, Alankruthi Saieni, Kavya
+- INTEGRATION: C.V.Naga Saisriya, Alankruthi Saieni, Kavya, Satwika M
